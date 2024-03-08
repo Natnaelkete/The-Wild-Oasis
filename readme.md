@@ -1,3 +1,3 @@
 #The-Wild-Oasis
 
-The first React project i build including the backend feature.
+React, react query and react router dom app  with supabase for the backend
